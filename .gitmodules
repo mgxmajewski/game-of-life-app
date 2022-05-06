@@ -1,0 +1,9 @@
+[submodule "game-of-life-front"]
+	path = game-of-life-front
+	url = https://github.com/mgxmajewski/game-of-life-front
+[submodule "game-of-life-realtime"]
+	path = game-of-life-realtime
+	url = https://github.com/mgxmajewski/game-of-life-realtime
+[submodule "game-of-life-hapi"]
+	path = game-of-life-hapi
+	url = https://github.com/mgxmajewski/game-of-life-hapi
