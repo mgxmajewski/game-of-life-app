@@ -1,4 +1,4 @@
-# CONWAY'S GAME OF LIFE REAL-TIME GRID EDITOR
+# CONWAY'S GAME OF LIFE. REAL-TIME GRID EDITOR
 #### Video Demo:  https://youtu.be/qzZTVwcTpIA
 #### Description:
 
